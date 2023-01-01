@@ -1,2 +1,2 @@
 # minecraft_scc
-Turn the Chinese words of Classical Chinese in Minecraft into Simplified Chinese
+Turn the Traditional Chinese words of Classical Chinese in Minecraft into Simplified Chinese
