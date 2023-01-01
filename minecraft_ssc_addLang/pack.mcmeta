@@ -1,0 +1,13 @@
+﻿{
+    "pack": {
+        "pack_format": 7,
+        "description": "Chinese Words"
+    },
+    "language": {
+        "lzh_cn": {
+            "name": "文言",
+            "region": "华夏简体",
+            "bidirectional": false
+        }
+    }
+}
